@@ -1,4 +1,5 @@
-# Hi 👋, I'm Rushikesh
+<h1 align="center">Hi 👋, I'm Rushikesh Yadav</h1>
+<h3 align="center">MERN Stack Developer | Java & DSA Enthusiast</h3>
 
 🎓 MCA Student at VESIT  
 💻 Aspiring Software & Web Developer  
@@ -12,9 +13,17 @@
 - HTML, CSS
 - Python (Basic)
 - Git & GitHub
-
 ---
 
+## 📈 GitHub Stats
+
+![Rushikesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rushikesh-dev&show_icons=true&theme=tokyonight)
+---
+---
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Rushikesh-dev&theme=tokyonight)
 ## 📚 Currently Learning
 - Data Structures & Algorithms (DSA)
 - Full Stack Web Development
