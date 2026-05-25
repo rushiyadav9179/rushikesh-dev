@@ -22,7 +22,7 @@
 
 ## 🔥 GitHub Streak
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Rushikesh-dev&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=rushiyadav9179&theme=tokyonight)
 ## 📚 Currently Learning
 - Data Structures & Algorithms (DSA)
 - Full Stack Web Development
