@@ -17,8 +17,7 @@
 
 ## 📈 GitHub Stats
 
-![Rushikesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rushikesh-dev&show_icons=true&theme=tokyonight)
----
+![Rushikesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=rushiyadav9179&show_icons=true&theme=tokyonight)---
 ---
 
 ## 🔥 GitHub Streak
